@@ -122,21 +122,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
 <channels></channels>
 <channel>
 <name>[B]FILME[COLOR yellow] ->[COLOR orange] Zulu[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/f4BTfJw/zulu-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
-<info>Filme Zulu</info>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9V7tl1kIb67ZPRRNlUdy3JvqEiA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/41ZWAGMttCr74dq7sAeh44QSJTQ.jpg</fanart>
+<info>Em Natal, África do Sul, em 1879, um pequeno regimento britânico de apenas 105 soldados se recusa a abandonar sua posição e resiste bravamente ao ataque de 4000 guerreiros zulus. Baseado em fatos verídicos.</info>
 <genre>AVENTURA</genre> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Zulu[/COLOR][/B]</title>
 <link>NOLINK</link>
-<thumbnail>https://i.ibb.co/f4BTfJw/zulu-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9V7tl1kIb67ZPRRNlUdy3JvqEiA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/41ZWAGMttCr74dq7sAeh44QSJTQ.jpg</fanart>
 <info>Assista aqui o filme Zulu em TORRENT</info>
 <genre>AVENTURA</genre>  
 </item>
@@ -145,8 +144,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]TRAILER[COLOR yellow] ->[COLOR orange] Zulu[/COLOR][/B]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=CbdZMUON3Is</link>
-<thumbnail>https://i.ibb.co/f4BTfJw/zulu-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9V7tl1kIb67ZPRRNlUdy3JvqEiA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/41ZWAGMttCr74dq7sAeh44QSJTQ.jpg</fanart>
 <info>Assista ao trailer</info>
 <genre>AVENTURA</genre>  
 </item> 
@@ -155,8 +154,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]720[COLOR yellow] ->[COLOR orange] Zulu - 1964 - Legendado[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9db9c1fc44eb1c728e8d5d8b18b4602c6a51adc8</link>
-<thumbnail>https://i.ibb.co/f4BTfJw/zulu-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9V7tl1kIb67ZPRRNlUdy3JvqEiA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/41ZWAGMttCr74dq7sAeh44QSJTQ.jpg</fanart>
 <info>Em Natal, África do Sul, em 1879, um pequeno regimento britânico de apenas 105 soldados se recusa a abandonar sua posição e resiste bravamente ao ataque de 4000 guerreiros zulus. Baseado em fatos verídicos.</info>
 <genre>AVENTURA</genre>  
 </item>
@@ -165,8 +164,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]1080[COLOR yellow] ->[COLOR orange] Zulu - 1964 - Legendado[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f05ca9d4bcabca2dd54d08571170886e35db0645</link>
-<thumbnail>https://i.ibb.co/f4BTfJw/zulu-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9V7tl1kIb67ZPRRNlUdy3JvqEiA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/41ZWAGMttCr74dq7sAeh44QSJTQ.jpg</fanart>
 <info>Em Natal, África do Sul, em 1879, um pequeno regimento britânico de apenas 105 soldados se recusa a abandonar sua posição e resiste bravamente ao ataque de 4000 guerreiros zulus. Baseado em fatos verídicos.</info>
 <genre>AVENTURA</genre>  
 </item>
@@ -176,17 +175,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]FILME[COLOR yellow] ->[COLOR orange] Apocalypto[/COLOR][/B]</name>
-<thumbnail>https://image.tmdb.org/t/p/w342/vGYuWwwzISnXrYgJrd6mSCTPimt.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
-<info>Filme Apocalypto</info>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vGYuWwwzISnXrYgJrd6mSCTPimt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sCPib25C9Nwjk7eVfK2vMAl08w7.jpg</fanart>
+<info>No fim da civilização maia, sacrifícios humanos se tornam cada vez mais frequentes, na tentativa de aplacar a ira dos deuses. Um jovem guerreiro é capturado e, num ímpeto de bravura, empreende incrível fuga para salvar a mulher grávida e o filho.</info>
+
 <genre>ÉPICOS</genre> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Apocalypto[/COLOR][/B]</title>
 <link>NOLINK</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/vGYuWwwzISnXrYgJrd6mSCTPimt.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vGYuWwwzISnXrYgJrd6mSCTPimt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sCPib25C9Nwjk7eVfK2vMAl08w7.jpg</fanart>
 <info>Assista aqui o filme Apocalypto em TORRENT</info>
 <genre>ÉPICOS</genre>  
 </item>
@@ -195,8 +195,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]TRAILER[COLOR yellow] ->[COLOR orange] Apocalypto[/COLOR][/B]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=gSw5l5jMnPM</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/vGYuWwwzISnXrYgJrd6mSCTPimt.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vGYuWwwzISnXrYgJrd6mSCTPimt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sCPib25C9Nwjk7eVfK2vMAl08w7.jpg</fanart>
 <info>Assista ao trailer</info>
 <genre>ÉPICOS</genre>  
 </item> 
@@ -205,8 +205,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]720[COLOR yellow] ->[COLOR orange] Apocalypto - 2006 - Legendado[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7183c124998166df9b620f053ed4138f869355f2</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/vGYuWwwzISnXrYgJrd6mSCTPimt.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vGYuWwwzISnXrYgJrd6mSCTPimt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sCPib25C9Nwjk7eVfK2vMAl08w7.jpg</fanart>
 <info>No fim da civilização maia, sacrifícios humanos se tornam cada vez mais frequentes, na tentativa de aplacar a ira dos deuses. Um jovem guerreiro é capturado e, num ímpeto de bravura, empreende incrível fuga para salvar a mulher grávida e o filho.</info>
 <genre>ÉPICOS</genre>  
 </item>
@@ -215,8 +215,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]1080[COLOR yellow] ->[COLOR orange] Apocalypto - 2006 - Legendado[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ca248bd7b349bab071eedabfc7e93b7cd7c4221&dn=Apocalypto+%282006%29++BluRay+1080p+Legendado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/vGYuWwwzISnXrYgJrd6mSCTPimt.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vGYuWwwzISnXrYgJrd6mSCTPimt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sCPib25C9Nwjk7eVfK2vMAl08w7.jpg</fanart>
 <info>No fim da civilização maia, sacrifícios humanos se tornam cada vez mais frequentes, na tentativa de aplacar a ira dos deuses. Um jovem guerreiro é capturado e, num ímpeto de bravura, empreende incrível fuga para salvar a mulher grávida e o filho.</info>
 <genre>ÉPICOS</genre>  
 </item>
@@ -226,17 +226,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]FILME[COLOR yellow] ->[COLOR orange] O Patriota [/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/BqqrKND/opatriota-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
-<info>Filme O Patriota </info>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oe26GVJTIEFLW8WjGMj1K0MbWUJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/c9xSFZQtC4c16Vn5CMOaB1pGk9J.jpg</fanart>
+<info>Benjamin Martin (Mel Gibson) o herói de um violento conflito. Desde o término da guerra ele renunciou a luta, vivendo em paz com sua família. Quando os ingleses levam a guerra da independência americana para dentro de sua casa, Benjamin não vê outra saída a não ser pegar nas armas novamente, desta vez acompanhado por seu filho idealista (Heath Ledger), e liderar uma brava rebelião em uma batalha contra o implacável e equipado exército britânico. Neste processo ele descobre que o único meio de proteger sua família lutando pela liberdade da jovem nação.</info>
 <genre>AVENTURA</genre> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR white][B] O Patriota [/COLOR][/B]</title>
 <link>NOLINK</link>
-<thumbnail>https://i.ibb.co/BqqrKND/opatriota-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oe26GVJTIEFLW8WjGMj1K0MbWUJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/c9xSFZQtC4c16Vn5CMOaB1pGk9J.jpg</fanart>
 <info>Assista aqui o filme O Patriota  em TORRENT</info>
 <genre>AVENTURA</genre>  
 </item>
@@ -245,8 +245,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]TRAILER[COLOR yellow] ->[COLOR orange] O Patriota [/COLOR][/B]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=P5u1am7pmrw</link>
-<thumbnail>https://i.ibb.co/BqqrKND/opatriota-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oe26GVJTIEFLW8WjGMj1K0MbWUJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/c9xSFZQtC4c16Vn5CMOaB1pGk9J.jpg</fanart>
 <info>Assista ao trailer</info>
 <genre>AVENTURA</genre>  
 </item> 
@@ -255,8 +255,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]720[COLOR yellow] ->[COLOR orange] O Patriota  - 2000 - Dublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c610db36a512dab9f8f087374071984b47525eb&dn=O+Patriota+%282000%29+BluRay+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
-<thumbnail>https://i.ibb.co/BqqrKND/opatriota-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oe26GVJTIEFLW8WjGMj1K0MbWUJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/c9xSFZQtC4c16Vn5CMOaB1pGk9J.jpg</fanart>
 <info>Benjamin Martin (Mel Gibson) o herói de um violento conflito. Desde o término da guerra ele renunciou a luta, vivendo em paz com sua família. Quando os ingleses levam a guerra da independência americana para dentro de sua casa, Benjamin não vê outra saída a não ser pegar nas armas novamente, desta vez acompanhado por seu filho idealista (Heath Ledger), e liderar uma brava rebelião em uma batalha contra o implacável e equipado exército britânico. Neste processo ele descobre que o único meio de proteger sua família lutando pela liberdade da jovem nação.</info>
 <genre>AVENTURA</genre>  
 </item>
@@ -265,8 +265,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]1080[COLOR yellow] ->[COLOR orange] O Patriota  - 2000 - Dublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8B329B16FE8D5740C1B4888F4843B5EB030F662E&dn=O%20Patriota%202000%20Vers%c3%a3o%20Estendida%20%281080p%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
-<thumbnail>https://i.ibb.co/BqqrKND/opatriota-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oe26GVJTIEFLW8WjGMj1K0MbWUJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/c9xSFZQtC4c16Vn5CMOaB1pGk9J.jpg</fanart>
 <info>Benjamin Martin (Mel Gibson) o herói de um violento conflito. Desde o término da guerra ele renunciou a luta, vivendo em paz com sua família. Quando os ingleses levam a guerra da independência americana para dentro de sua casa, Benjamin não vê outra saída a não ser pegar nas armas novamente, desta vez acompanhado por seu filho idealista (Heath Ledger), e liderar uma brava rebelião em uma batalha contra o implacável e equipado exército britânico. Neste processo ele descobre que o único meio de proteger sua família lutando pela liberdade da jovem nação.</info>
 <genre>AVENTURA</genre>  
 </item>
@@ -275,98 +275,48 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]FILME[COLOR yellow] ->[COLOR orange] Robin Hood[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/9VG3qVy/robinhood-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
-<info>Filme Robin Hood</info>
-<genre>PICOS</genre> 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Robin Hood[/COLOR][/B]</title>
-<link>NOLINK</link>
-<thumbnail>https://i.ibb.co/9VG3qVy/robinhood-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
-<info>Assista aqui o filme Robin Hood em TORRENT</info>
-<genre>ÉPICOS</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]TRAILER[COLOR yellow] ->[COLOR orange] Robin Hood[/COLOR][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=qDqtvVWyoso</link>
-<thumbnail>https://i.ibb.co/9VG3qVy/robinhood-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
-<info>Assista ao trailer</info>
-<genre>ÉPICOS</genre>  
-</item> 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]720[COLOR yellow] ->[COLOR orange] Robin Hood - 2010 - Dublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6733D1FF93AD39528E6BF9110F6EA399E309A2F3&dn=Robin%20Hood%20Sem%20Cortes%20BLUDV&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce</link>
-<thumbnail>https://i.ibb.co/9VG3qVy/robinhood-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
-<info>Na Inglaterra do século 12, Robin Hood é um hábil arqueiro que fazia parte do exército. Com a morte do rei, ele vai para Nottingham, que está dominada por um xerife corrupto. Lá, ele se apaixona pela viúva Lady Marion e tentará fazer justiça roubando dos ricos e dando aos pobres.</info>
-<genre>ÉPICOS</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]1080[COLOR yellow] ->[COLOR orange] Robin Hood - 2010 - Dublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9C4E7D0ADCEA010BF4E925622DB8974516CBDAA4&dn=Robin%20Hood%20Sem%20Cortes%20%5b1080p%5d%20BLUDV&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce</link>
-<thumbnail>https://i.ibb.co/9VG3qVy/robinhood-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
-<info>Na Inglaterra do século 12, Robin Hood é um hábil arqueiro que fazia parte do exército. Com a morte do rei, ele vai para Nottingham, que está dominada por um xerife corrupto. Lá, ele se apaixona pela viúva Lady Marion e tentará fazer justiça roubando dos ricos e dando aos pobres.</info>
-<genre>ÉPICOS</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels></channels>
-<channel>
-<name>[B]FILME[COLOR yellow] ->[COLOR orange] Legionário[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/PxYtcrZ/olegionario-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
-<info>Filme Legionário</info>
+<name>[B]FILME[COLOR yellow] ->[COLOR orange] O Legionário[/COLOR][/B]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/spcpJtT7Ac3YAHy9a36uP3B0Yhd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qs0vwBf2q5WaajTD8oTY2IquvO0.jpg</fanart>
+<info>Noreno, um soldado meio-romano, é encarregado da missão perigosa de atravessar as montanhas nevadas da Armênia, repleto de patrulhas espartanas, para procurar ajuda para seus homens que estão morrendo lentamente.</info>
 <genre>ÉPICOS</genre> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Legionário[/COLOR][/B]</title>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR white][B] O Legionário[/COLOR][/B]</title>
 <link>NOLINK</link>
-<thumbnail>https://i.ibb.co/PxYtcrZ/olegionario-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
-<info>Assista aqui o filme Legionário em TORRENT</info>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/spcpJtT7Ac3YAHy9a36uP3B0Yhd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qs0vwBf2q5WaajTD8oTY2IquvO0.jpg</fanart>
+<info>Assista aqui o filme O Legionário em TORRENT</info>
 <genre>ÉPICOS</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TRAILER[COLOR yellow] ->[COLOR orange] Legionário[/COLOR][/B]</title>
+<title>[B]TRAILER[COLOR yellow] ->[COLOR orange] O Legionário[/COLOR][/B]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=p6mxhiBIOlI</link>
-<thumbnail>https://i.ibb.co/PxYtcrZ/olegionario-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/spcpJtT7Ac3YAHy9a36uP3B0Yhd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qs0vwBf2q5WaajTD8oTY2IquvO0.jpg</fanart>
 <info>Assista ao trailer</info>
 <genre>ÉPICOS</genre>  
 </item> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]720[COLOR yellow] ->[COLOR orange] Legionário - 2020 - Dublado[/COLOR][/B]</title>
+<title>[B]720[COLOR yellow] ->[COLOR orange] O Legionário - 2020 - Dublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D9D56907436CA3FAD80BA3DD314BEA9DC50AA2A3&dn=The.Legion.2020.1080p.WEBRip.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
-<thumbnail>https://i.ibb.co/PxYtcrZ/olegionario-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/spcpJtT7Ac3YAHy9a36uP3B0Yhd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qs0vwBf2q5WaajTD8oTY2IquvO0.jpg</fanart>
 <info>Noreno, um soldado meio-romano, é encarregado da missão perigosa de atravessar as montanhas nevadas da Armênia, repleto de patrulhas espartanas, para procurar ajuda para seus homens que estão morrendo lentamente.</info>
 <genre>ÉPICOS</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]1080[COLOR yellow] ->[COLOR orange] Legionário - 2020 - Dublado[/COLOR][/B]</title>
+<title>[B]1080[COLOR yellow] ->[COLOR orange] O Legionário - 2020 - Dublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48CCD951664FBC686032C7D1538DBC97B82FB043&dn=The.Legion.2020.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
-<thumbnail>https://i.ibb.co/PxYtcrZ/olegionario-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/spcpJtT7Ac3YAHy9a36uP3B0Yhd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qs0vwBf2q5WaajTD8oTY2IquvO0.jpg</fanart>
 <info>Noreno, um soldado meio-romano, é encarregado da missão perigosa de atravessar as montanhas nevadas da Armênia, repleto de patrulhas espartanas, para procurar ajuda para seus homens que estão morrendo lentamente.</info>
 <genre>ÉPICOS</genre>  
 </item>
@@ -376,17 +326,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]FILME[COLOR yellow] ->[COLOR orange] Coração Valente[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/9wWXzRX/cora-ovalente-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
-<info>Filme Coração Valente</info>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qJnOWmnsJ0BCEpX9Xf5Ti9UJqXV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vXhTr0cN54R0TbSD9iG5cuAEWcT.jpg</fanart>
+<info>A história do herói escocês do século 13,  William Wallace, que lidera seus conterrâneos contra o monarca inglês Edward I, após ter sofrido uma tragédia pessoal causada pelos soldados ingleses. O exército amador de Wallace foi maior que o exército da Inglaterra.</info>
 <genre>ÉPICOS</genre> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Coração Valente[/COLOR][/B]</title>
 <link>NOLINK</link>
-<thumbnail>https://i.ibb.co/9wWXzRX/cora-ovalente-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qJnOWmnsJ0BCEpX9Xf5Ti9UJqXV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vXhTr0cN54R0TbSD9iG5cuAEWcT.jpg</fanart>
 <info>Assista aqui o filme Coração Valente em TORRENT</info>
 <genre>ÉPICOS</genre>  
 </item>
@@ -395,8 +345,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]TRAILER[COLOR yellow] ->[COLOR orange] Coração Valente[/COLOR][/B]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=1NJO0jxBtMo</link>
-<thumbnail>https://i.ibb.co/9wWXzRX/cora-ovalente-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qJnOWmnsJ0BCEpX9Xf5Ti9UJqXV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vXhTr0cN54R0TbSD9iG5cuAEWcT.jpg</fanart>
 <info>Assista ao trailer</info>
 <genre>ÉPICOS</genre>  
 </item> 
@@ -405,8 +355,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]720[COLOR yellow] ->[COLOR orange] Coração Valente - 1995 - Dublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WFFLYPRSQIASVEM24BHSFLJVTEXRKPWD&dn=Coracao%20Valente%20(1995)%20Bluray%20720p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM</link>
-<thumbnail>https://i.ibb.co/9wWXzRX/cora-ovalente-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qJnOWmnsJ0BCEpX9Xf5Ti9UJqXV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vXhTr0cN54R0TbSD9iG5cuAEWcT.jpg</fanart>
 <info>A história do herói escocês do século 13,  William Wallace, que lidera seus conterrâneos contra o monarca inglês Edward I, após ter sofrido uma tragédia pessoal causada pelos soldados ingleses. O exército amador de Wallace foi maior que o exército da Inglaterra.</info>
 <genre>ÉPICO</genre> 
 </item>
@@ -415,8 +365,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]1080[COLOR yellow] ->[COLOR orange] Coração Valente - 1995 - Dublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E6389A9699BE576724DDFA479C90FE5A2CAF7685&dn=Cora%c3%a7%c3%a3o%20Valente%20-%20Edi%c3%a7%c3%a3o%2020%20Anos%20%281995%29%20Dual%20%c3%81udio%20BluRay%205.1%20--%20DeG&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce</link>
-<thumbnail>https://i.ibb.co/9wWXzRX/cora-ovalente-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qJnOWmnsJ0BCEpX9Xf5Ti9UJqXV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vXhTr0cN54R0TbSD9iG5cuAEWcT.jpg</fanart>
 <info>A história do herói escocês do século 13,  William Wallace, que lidera seus conterrâneos contra o monarca inglês Edward I, após ter sofrido uma tragédia pessoal causada pelos soldados ingleses. O exército amador de Wallace foi maior que o exército da Inglaterra.</info>
 <genre>ÉPICO</genre> 
 </item>
@@ -426,8 +376,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]FILME[COLOR yellow] ->[COLOR orange] Cruzada[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/VWFVMyQ/cruzada-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jJKh7c1eDaErSwlO4uw9OA97fba.jpg</thumbnail>
+<fanart>https://live.staticflickr.com/3663/3704751402_b166e2eec5_b.jpg</fanart>
 <info>Filme Cruzada</info>
 <genre>ÉPICOS</genre> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -435,8 +385,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Cruzada[/COLOR][/B]</title>
 <link>NOLINK</link>
-<thumbnail>https://i.ibb.co/VWFVMyQ/cruzada-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jJKh7c1eDaErSwlO4uw9OA97fba.jpg</thumbnail>
+<fanart>https://live.staticflickr.com/3663/3704751402_b166e2eec5_b.jpg</fanart>
 <info>Assista aqui o filme Cruzada em TORRENT</info>
 <genre>ÉPICOS</genre>  
 </item>
@@ -445,8 +395,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]TRAILER[COLOR yellow] ->[COLOR orange] Cruzada[/COLOR][/B]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=GFMpHkv9hsw</link>
-<thumbnail>https://i.ibb.co/VWFVMyQ/cruzada-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jJKh7c1eDaErSwlO4uw9OA97fba.jpg</thumbnail>
+<fanart>https://live.staticflickr.com/3663/3704751402_b166e2eec5_b.jpg</fanart>
 <info>Assista ao trailer</info>
 <genre>ÉPICOS</genre>  
 </item> 
@@ -455,8 +405,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]720[COLOR yellow] ->[COLOR orange] Cruzada - 2005 - Dublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B7A97FA7111A0FBC27D1E5E96A06DEFF5CB75037&dn=cruzada+2005+720p+bluray+5+1+x264+dual+bludv&tr=udp%3A%2F%2Ftracker.istole.it%3A80%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce</link>
-<thumbnail>https://i.ibb.co/VWFVMyQ/cruzada-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jJKh7c1eDaErSwlO4uw9OA97fba.jpg</thumbnail>
+<fanart>https://live.staticflickr.com/3663/3704751402_b166e2eec5_b.jpg</fanart>
 <info>Balian (Orlando Bloom) é um jovem ferreiro francês, que guarda luto pela morte de sua esposa e filho. Ele recebe a visita de Godfrey de Ibelin (Liam Neeson), seu pai, que é também um conceituado barão do rei de Jerusalém e dedica sua vida a manter a paz na Terra Santa. Balian decide se dedicar também à esta meta, mas após a morte de Godfrey ele herda terras e um título de nobreza em Jerusalém. Determinado a manter seu juramento, Balian decide permanecer no local e servir a um rei amaldiçoado como cavaleiro. Paralelamente ele se apaixona pela princesa Sibylla (Eva Green), a irmã do rei.</info>
 <genre>ÉPICO</genre> 
 </item>
@@ -465,8 +415,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]1080[COLOR yellow] ->[COLOR orange] Cruzada - 2005 - Dublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00f2710da3227ed0f10298423a0fd0323caf0e6e</link>
-<thumbnail>https://i.ibb.co/VWFVMyQ/cruzada-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jJKh7c1eDaErSwlO4uw9OA97fba.jpg</thumbnail>
+<fanart>https://live.staticflickr.com/3663/3704751402_b166e2eec5_b.jpg</fanart>
 <info>Balian (Orlando Bloom) é um jovem ferreiro francês, que guarda luto pela morte de sua esposa e filho. Ele recebe a visita de Godfrey de Ibelin (Liam Neeson), seu pai, que é também um conceituado barão do rei de Jerusalém e dedica sua vida a manter a paz na Terra Santa. Balian decide se dedicar também à esta meta, mas após a morte de Godfrey ele herda terras e um título de nobreza em Jerusalém. Determinado a manter seu juramento, Balian decide permanecer no local e servir a um rei amaldiçoado como cavaleiro. Paralelamente ele se apaixona pela princesa Sibylla (Eva Green), a irmã do rei.</info>
 <genre>ÉPICO</genre> 
 </item>
@@ -476,17 +426,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]FILME[COLOR yellow] ->[COLOR orange] O Último dos Moicanos[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/RSfs8fv/ultimomoicanos-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
-<info>Filme O Último dos Moicanos</info>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fvC4Z4kO62V3vKD230V8jmOEzE7.jpg</thumbnail>
+<fanart>https://2lin3i1bbign2l2t392v1pxd-wpengine.netdna-ssl.com/wp-content/uploads/2019/07/CVST_Magua.jpg</fanart>
+<info>No século 18, em meio à guerra entre franceses e ingleses no continente norte-americano, um homem branco criado pelos índios tenta defender a sua tribo dos ataques.</info>
 <genre>ÉPICOS</genre> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR white][B] O Último dos Moicanos[/COLOR][/B]</title>
 <link>NOLINK</link>
-<thumbnail>https://i.ibb.co/RSfs8fv/ultimomoicanos-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fvC4Z4kO62V3vKD230V8jmOEzE7.jpg</thumbnail>
+<fanart>https://2lin3i1bbign2l2t392v1pxd-wpengine.netdna-ssl.com/wp-content/uploads/2019/07/CVST_Magua.jpg</fanart>
 <info>Assista aqui o filme O Último dos Moicanos em TORRENT</info>
 <genre>ÉPICOS</genre>  
 </item>
@@ -495,8 +445,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]TRAILER[COLOR yellow] ->[COLOR orange] O Último dos Moicanos[/COLOR][/B]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=yaQeVnN6pUc</link>
-<thumbnail>https://i.ibb.co/RSfs8fv/ultimomoicanos-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fvC4Z4kO62V3vKD230V8jmOEzE7.jpg</thumbnail>
+<fanart>https://2lin3i1bbign2l2t392v1pxd-wpengine.netdna-ssl.com/wp-content/uploads/2019/07/CVST_Magua.jpg</fanart>
 <info>Assista ao trailer</info>
 <genre>ÉPICOS</genre>  
 </item> 
@@ -505,8 +455,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]720[COLOR yellow] ->[COLOR orange] O Último dos Moicanos - 1992 - Dublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VXQERY2B47GEBFZGHAFERZB422HGHBJV&dn=O+%C3%9Altimo+dos+Moicanos+%281992%29+BRrip+Blu-Ray+720p+Dublado+-+DAT2015&tr=udp://tracker.openbittorrent.com:80/announce</link>
-<thumbnail>https://i.ibb.co/RSfs8fv/ultimomoicanos-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fvC4Z4kO62V3vKD230V8jmOEzE7.jpg</thumbnail>
+<fanart>https://2lin3i1bbign2l2t392v1pxd-wpengine.netdna-ssl.com/wp-content/uploads/2019/07/CVST_Magua.jpg</fanart>
 <info>No século 18, em meio à guerra entre franceses e ingleses no continente norte-americano, um homem branco criado pelos índios tenta defender a sua tribo dos ataques.</info>
 <genre>GENERO</genre>  
 </item>
@@ -515,8 +465,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]1080[COLOR yellow] ->[COLOR orange] O Último dos Moicanos - 1992 - Dublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QFRUJZQBMBQXZFA5LZQCEKSEPXZ6WKKC&dn=O+%C3%9Altimo+dos+Moicanos+%281992%29+BRrip+Blu-Ray+1080p+-+DAT2015&tr=udp://tracker.openbittorrent.com:80/announce</link>
-<thumbnail>https://i.ibb.co/RSfs8fv/ultimomoicanos-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fvC4Z4kO62V3vKD230V8jmOEzE7.jpg</thumbnail>
+<fanart>https://2lin3i1bbign2l2t392v1pxd-wpengine.netdna-ssl.com/wp-content/uploads/2019/07/CVST_Magua.jpg</fanart>
 <info>No século 18, em meio à guerra entre franceses e ingleses no continente norte-americano, um homem branco criado pelos índios tenta defender a sua tribo dos ataques.</info>
 <genre>GENERO</genre>  
 </item>
@@ -526,17 +476,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]FILME[COLOR yellow] ->[COLOR orange] Gladiador[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/C8mhR5P/gladiador-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
-<info>Filme Gladiador</info>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w4bXRLYNpuAU9XiwC7NN36GOYtO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/11Nc1edpNxn2lpm8a2XuTVkTH8C.jpg</fanart>
+<info>Commodus toma o poder e se livra de Maximus, um dos generais favoritos de seu predecessor e pai, o grande filósofo, rei e imperador Marcus Aurelius. O bravo guerreiro é forçado a se tornar gladiador nas arenas e precisa lutar pela vida.</info>
 <genre>ÉPICOS</genre> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Gladiador[/COLOR][/B]</title>
 <link>NOLINK</link>
-<thumbnail>https://i.ibb.co/C8mhR5P/gladiador-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w4bXRLYNpuAU9XiwC7NN36GOYtO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/11Nc1edpNxn2lpm8a2XuTVkTH8C.jpg</fanart>
 <info>Assista aqui o filme Gladiador em TORRENT</info>
 <genre>ÉPICOS</genre>  
 </item>
@@ -545,8 +495,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]TRAILER[COLOR yellow] ->[COLOR orange] Gladiador[/COLOR][/B]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=owK1qxDselE</link>
-<thumbnail>https://i.ibb.co/C8mhR5P/gladiador-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w4bXRLYNpuAU9XiwC7NN36GOYtO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/11Nc1edpNxn2lpm8a2XuTVkTH8C.jpg</fanart>
 <info>Assista ao trailer</info>
 <genre>ÉPICOS</genre>  
 </item> 
@@ -555,8 +505,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]720[COLOR yellow] ->[COLOR orange] Gladiador - 2000 - Dublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5fd5576760be2db1b8faaa7e12874e5834a479cd&dn=Gladiador+-+Vers%C3%A3o+Estendida+Remasterizada+2000+WWW.BLUDV.COM</link>
-<thumbnail>https://i.ibb.co/C8mhR5P/gladiador-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/NtRfNzR/gladiador-fan.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w4bXRLYNpuAU9XiwC7NN36GOYtO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/11Nc1edpNxn2lpm8a2XuTVkTH8C.jpg</fanart>
 <info>Commodus toma o poder e se livra de Maximus, um dos generais favoritos de seu predecessor e pai, o grande filósofo, rei e imperador Marcus Aurelius. O bravo guerreiro é forçado a se tornar gladiador nas arenas e precisa lutar pela vida.</info>
 <genre>ÉPICO</genre>  
 </item>
@@ -565,8 +515,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]1080[COLOR yellow] ->[COLOR orange] Gladiador - 2000 - Dublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a60b2571a500aa608f35fe71bbeb917e5b691f4&dn=Gladiador+-+Vers%C3%A3o+Estendida+Remasterizada+2000+%5B1080p%5D+WWW.BLUDV.COM</link>
-<thumbnail>https://i.ibb.co/C8mhR5P/gladiador-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/NtRfNzR/gladiador-fan.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w4bXRLYNpuAU9XiwC7NN36GOYtO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/11Nc1edpNxn2lpm8a2XuTVkTH8C.jpg</fanart>
 <info>Commodus toma o poder e se livra de Maximus, um dos generais favoritos de seu predecessor e pai, o grande filósofo, rei e imperador Marcus Aurelius. O bravo guerreiro é forçado a se tornar gladiador nas arenas e precisa lutar pela vida.</info>
 <genre>ÉPICO</genre>  
 </item>
@@ -576,17 +526,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]FILME[COLOR yellow] ->[COLOR orange] O Último Samurai[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/Kr5rgmp/ultimosamurai-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
-<info>Filme O Último Samurai</info>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ybt7v6M74KwnffPOB88VDCwc5Fw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/g7vyM5fJSGXUyeP6EZEtfBwC5Xa.jpg</fanart>
+<info>O soldado Nathan Algren deixa os Estados Unidos rumo ao Japão feudal. Na tentativa de derrotar um comandante, é capturado. Algren sabe o destino de prisioneiros inimigos, mas fica surpreso ao ser poupado e se sente atraído pelo estilo de vida dos Samurai, entre outras coisas.</info>
 <genre>ÉPICOS</genre> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR white][B] O Último Samurai[/COLOR][/B]</title>
 <link>NOLINK</link>
-<thumbnail>https://i.ibb.co/Kr5rgmp/ultimosamurai-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ybt7v6M74KwnffPOB88VDCwc5Fw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/g7vyM5fJSGXUyeP6EZEtfBwC5Xa.jpg</fanart>
 <info>Assista aqui o filme O Último Samurai em TORRENT</info>
 <genre>ÉPICOS</genre>  
 </item>
@@ -595,8 +545,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]TRAILER[COLOR yellow] ->[COLOR orange] O Último Samurai[/COLOR][/B]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=7pocyXjD_D4</link>
-<thumbnail>https://i.ibb.co/Kr5rgmp/ultimosamurai-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ybt7v6M74KwnffPOB88VDCwc5Fw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/g7vyM5fJSGXUyeP6EZEtfBwC5Xa.jpg</fanart>
 <info>Assista ao trailer</info>
 <genre>ÉPICOS</genre>  
 </item> 
@@ -605,8 +555,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]720[COLOR yellow] ->[COLOR orange] O Último Samurai - 2003 - Dublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86AB022B45D15E91D1949C1A342F52EDA3ED43FF&dn=O%20%c3%9altimo%20Samurai%202004%20%28720p%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
-<thumbnail>https://i.ibb.co/Kr5rgmp/ultimosamurai-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ybt7v6M74KwnffPOB88VDCwc5Fw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/g7vyM5fJSGXUyeP6EZEtfBwC5Xa.jpg</fanart>
 <info>O soldado Nathan Algren deixa os Estados Unidos rumo ao Japão feudal. Na tentativa de derrotar um comandante, é capturado. Algren sabe o destino de prisioneiros inimigos, mas fica surpreso ao ser poupado e se sente atraído pelo estilo de vida dos Samurai, entre outras coisas.</info>
 <genre>ÉPICOS</genre>  
 </item>
@@ -615,8 +565,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]1080[COLOR yellow] ->[COLOR orange] O Último Samurai - 2003 - Dublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:93FAECB451E1067EA523B2BA2348DB98AA54613C&dn=O%20%c3%9altimo%20Samurai%202004%20%281080p%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
-<thumbnail>https://i.ibb.co/Kr5rgmp/ultimosamurai-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ybt7v6M74KwnffPOB88VDCwc5Fw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/g7vyM5fJSGXUyeP6EZEtfBwC5Xa.jpg</fanart>
 <info>O soldado Nathan Algren deixa os Estados Unidos rumo ao Japão feudal. Na tentativa de derrotar um comandante, é capturado. Algren sabe o destino de prisioneiros inimigos, mas fica surpreso ao ser poupado e se sente atraído pelo estilo de vida dos Samurai, entre outras coisas.</info>
 <genre>ÉPICOS</genre>  
 </item>
@@ -626,17 +576,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]FILME[COLOR yellow] ->[COLOR orange] Dança com Lobos[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/gTR9mW6/dancaclobos-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
-<info>Filme Dança com Lobos</info>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xLE9yvuG9NACVcHhEMdR68xcffD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/f6YvaVqqNjAHYI4uC64ChpwqrUg.jpg</fanart>
+<info>No período da Guerra Civil Americana, o jovem militar John Dunbar cria uma estratégia não violenta de aproximação com índios Sioux. Os indígenas, que acham curiosa a amizade de Dunbar com um lobo, passam a conviver de forma afetuosa com o tenente.</info>
 <genre>ÉPICOS</genre> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Dança com Lobos[/COLOR][/B]</title>
 <link>NOLINK</link>
-<thumbnail>https://i.ibb.co/gTR9mW6/dancaclobos-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xLE9yvuG9NACVcHhEMdR68xcffD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/f6YvaVqqNjAHYI4uC64ChpwqrUg.jpg</fanart>
 <info>Assista aqui o filme Dança com Lobos em TORRENT</info>
 <genre>ÉPICOS</genre>  
 </item>
@@ -645,8 +595,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]TRAILER[COLOR yellow] ->[COLOR orange] Dança com Lobos[/COLOR][/B]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=8ZcT9OGsmFA</link>
-<thumbnail>https://i.ibb.co/gTR9mW6/dancaclobos-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xLE9yvuG9NACVcHhEMdR68xcffD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/f6YvaVqqNjAHYI4uC64ChpwqrUg.jpg</fanart>
 <info>Assista ao trailer</info>
 <genre>ÉPICOS</genre>  
 </item> 
@@ -655,8 +605,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]720[COLOR yellow] ->[COLOR orange] Dança com Lobos - 1990 - Dublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9CF5E0CF4FE3DA9CFBC1AD5CC56B0E6AD555714B&dn=Dan%c3%a7a%20com%20Lobos%20720p%20%281990%29%20Dual%20%c3%81udio%20BluRay%20--%20By%20-%20Lucas%20Firmo&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&tr=http%3a%2f%2ftracker.tfile.me%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2770%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2780%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce</link>
-<thumbnail>https://i.ibb.co/gTR9mW6/dancaclobos-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xLE9yvuG9NACVcHhEMdR68xcffD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/f6YvaVqqNjAHYI4uC64ChpwqrUg.jpg</fanart>
 <info>No período da Guerra Civil Americana, o jovem militar John Dunbar cria uma estratégia não violenta de aproximação com índios Sioux. Os indígenas, que acham curiosa a amizade de Dunbar com um lobo, passam a conviver de forma afetuosa com o tenente.</info>
 <genre>ÉPICOS</genre>  
 </item>
@@ -665,8 +615,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]1080[COLOR yellow] ->[COLOR orange] Dança com Lobos - 1990 - Dublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B6BE178BA3E7CF9218E36B631B079EFACD95A50B&dn=Dan%c3%a7a%20com%20Lobos%201080p%20%281990%29%20Dual%20%c3%81udio%20BluRay%20--%20By%20-%20Lucas%20Firmo&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&tr=http%3a%2f%2ftracker.tfile.me%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2770%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2780%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce</link>
-<thumbnail>https://i.ibb.co/gTR9mW6/dancaclobos-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xLE9yvuG9NACVcHhEMdR68xcffD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/f6YvaVqqNjAHYI4uC64ChpwqrUg.jpg</fanart>
 <info>No período da Guerra Civil Americana, o jovem militar John Dunbar cria uma estratégia não violenta de aproximação com índios Sioux. Os indígenas, que acham curiosa a amizade de Dunbar com um lobo, passam a conviver de forma afetuosa com o tenente.</info>
 <genre>ÉPICOS</genre>  
 </item>
@@ -676,17 +626,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]FILME[COLOR yellow] ->[COLOR orange] Robin Hood[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/9VG3qVy/robinhood-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cCzqyuZxvJ38E8DXMbW9q4qgUVa.jpg</thumbnail>
+<fanart>http://br.web.img3.acsta.net/r_1280_720/medias/nmedia/18/70/25/56/19441957.jpg</fanart>
 <info>Filme Robin Hood</info>
-<genre>ÉPICOS</genre> 
+<genre>PICOS</genre> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Robin Hood[/COLOR][/B]</title>
 <link>NOLINK</link>
-<thumbnail>https://i.ibb.co/9VG3qVy/robinhood-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cCzqyuZxvJ38E8DXMbW9q4qgUVa.jpg</thumbnail>
+<fanart>http://br.web.img3.acsta.net/r_1280_720/medias/nmedia/18/70/25/56/19441957.jpg</fanart>
 <info>Assista aqui o filme Robin Hood em TORRENT</info>
 <genre>ÉPICOS</genre>  
 </item>
@@ -695,28 +645,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]TRAILER[COLOR yellow] ->[COLOR orange] Robin Hood[/COLOR][/B]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=qDqtvVWyoso</link>
-<thumbnail>https://i.ibb.co/9VG3qVy/robinhood-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cCzqyuZxvJ38E8DXMbW9q4qgUVa.jpg</thumbnail>
+<fanart>http://br.web.img3.acsta.net/r_1280_720/medias/nmedia/18/70/25/56/19441957.jpg</fanart>
 <info>Assista ao trailer</info>
 <genre>ÉPICOS</genre>  
 </item> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]720[COLOR yellow] ->[COLOR orange] Robin Hood - 2010 - Dublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6733D1FF93AD39528E6BF9110F6EA399E309A2F3&dn=Robin%20Hood%20Sem%20Cortes%20BLUDV&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce</link>
-<thumbnail>https://i.ibb.co/9VG3qVy/robinhood-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
-<info>Na Inglaterra do século 12, Robin Hood é um hábil arqueiro que fazia parte do exército. Com a morte do rei, ele vai para Nottingham, que está dominada por um xerife corrupto. Lá, ele se apaixona pela viúva Lady Marion e tentará fazer justiça roubando dos ricos e dando aos pobres.</info>
-<genre>ÉPICOS</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
 <title>[B]1080[COLOR yellow] ->[COLOR orange] Robin Hood - 2010 - Dublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9C4E7D0ADCEA010BF4E925622DB8974516CBDAA4&dn=Robin%20Hood%20Sem%20Cortes%20%5b1080p%5d%20BLUDV&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce</link>
-<thumbnail>https://i.ibb.co/9VG3qVy/robinhood-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ed9dedc9a3b78b45d6443b4b7a675b1eb22b305&dn=Robin+Hood+%282010%29+BDRip+1080p+Dublado+ToTTi9&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cCzqyuZxvJ38E8DXMbW9q4qgUVa.jpg</thumbnail>
+<fanart>http://br.web.img3.acsta.net/r_1280_720/medias/nmedia/18/70/25/56/19441957.jpg</fanart>
 <info>Na Inglaterra do século 12, Robin Hood é um hábil arqueiro que fazia parte do exército. Com a morte do rei, ele vai para Nottingham, que está dominada por um xerife corrupto. Lá, ele se apaixona pela viúva Lady Marion e tentará fazer justiça roubando dos ricos e dando aos pobres.</info>
 <genre>ÉPICOS</genre>
 </item>
