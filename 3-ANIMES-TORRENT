@@ -1,4 +1,3 @@
-
 <item>
 <title>[COLOR orange][B]ESCOLHA UM ITEM [/B][/COLOR]</title>
 <link>NOLINK</link>
@@ -9,20 +8,41 @@
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NOMEDOFILME [/B][/COLOR]</link>
+<item>
+<title>[COLOR white][B]Dragon Ball Heroes - 2018 - DUB[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=jFh4XUGA_bU$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Dragon Ball Heroes[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:U2UJ76KMYR33QQWAS3XR63C466C7P5LF&dn=%5BACESSE%20COMANDOTORRENTS.COM%5D%20Super%20Dragon%20Ball%20Heroes%20EP.%2001%20ao%2007%20%5B1080p%5D%20%5BWEB-DL%5D%20%5BDUAL%5D$$lsname=[COLOR orange][B]ANIME[COLOR yellow] -> [COLOR white][B]Dragon Ball Heroes - 2018 - DUB [/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8jq6xv5c1WK7KAPOXCsodm8eUxp.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xlKKD1TXJvh0YYlVPqqQ3g3ZUjM.jpg</fanart>
+<info>Trunks retorna do futuro para treinar com Goku e Vegeta. No entanto, desaparece sem aviso prévio. Então o misterioso Fu aparece, dizendo que Trunks foi aprisionado no Planeta da Prisão, um complexo misterioso em um lugar desconhecido nos universos. O grupo procura das esferas do dragão para libertar Trunks, mas uma batalha sem fim espera por eles! Goku e os outros vão resgatar Trunks e escapar do Planeta da Prisão?</info>
+<genre>ANIMES</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B] Dragon Ball Super - 2015 - DUB[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=dku9lH_Rr_c$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Dragon Ball Super [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0AF52C718B0B428807892CF40A715A6F54C2B45D&dn$$lsname=[COLOR orange][B]ANIME[COLOR yellow] ->[COLOR white] Dragon Ball Super - T01 - DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5FC9FC66435C9326CD16D7228814A91A86E1BD40$$lsname=[COLOR orange][B]ANIME[COLOR yellow] ->[COLOR white] Dragon Ball Super - T02 - DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E26437140A5934240005D5AD53276231E296CE3D$$lsname=[COLOR orange][B]ANIME[COLOR yellow] ->[COLOR white] Dragon Ball Super - T03 - DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0F7EA6ECC6D3B3084E4B00000623CAAF5333F18A&dn=$$lsname=[COLOR orange][B]ANIME[COLOR yellow] ->[COLOR white] Dragon Ball Super - T04 - DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w7McGJsGqDjKu4sq5jl0OI1nrqY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zYmMzsm6ORrt1YgVK5p5gSSvIIZ.jpg</fanart>
+<info>Seis meses após a derrota de Majin Buu, Goku arranja um novo emprego como... Fazendeiro de nabos. Agora que a Terra está em paz, nossos heróis levam vidas mundanas, mas não por muito tempo. Longe dali, Bills, o poderoso Deus da Destruição, recebe uma profecia de que encontrará seu fim nas mãos de um ser ainda mais poderoso, e sua busca pelo Deus dos Saiyajins o traz para a Terra. Será que Goku e seus amigos conseguirão derrotar seu mais poderoso inimigo até então?</info>
+<genre>ANIMES</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B] Dragon Ball Z - Todas as Sagas - 1989 - DUB[/B][/COLOR]</title>
-
 <link>plugin://plugin.video.youtube/play/?video_id=_K91eeP25NA$$lsname=[COLOR white][B]TRAILER[COLOR yellow] -> [COLOR white][B]Dragon Ball Z [/B][/COLOR]</link>
-
-<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:f5635167d1f45159e5668e6a76b38c774b238a0f&dn$$lsname=[COLOR orange][B]ANIME[COLOR yellow] ->[COLOR white] Saga dos Sayajins - DUB[/B][/COLOR]</link>
-<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:cfc59ce47c7c0f0edbedc357dc2458b9056f7d83&dn$$lsname=[COLOR orange][B]ANIME[COLOR yellow] ->[COLOR white] Saga de Freeza - DUB[/B][/COLOR]</link>
-<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:05f99038fd0f1fc7d81251425649642841961870&dn$$lsname=[COLOR orange][B]ANIME[COLOR yellow] ->[COLOR white] Saga de Garlic Jr. - DUB[/B][/COLOR]</link>
-<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:e5f7f815ebe8a8a683744ecc47e1a32189c14a53&dn$$lsname=[COLOR orange][B]ANIME[COLOR yellow] ->[COLOR white] Saga dos Androides - DUB[/B][/COLOR]</link>
-<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:c99759c4f0accb04e2b47aa0b6d2efa5f0da5b41&dn$$lsname=[COLOR orange][B]ANIME[COLOR yellow] ->[COLOR white] Saga de Cell - DUB[/B][/COLOR]</link>
-<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:6d3eb64b65edd8cc6d064f8aa327427f0b74439f&dn$$lsname=[COLOR orange][B]ANIME[COLOR yellow] ->[COLOR white] Saga Torneio de Outro Mundo - DUB[/B][/COLOR]</link>
-<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:f971d0d48f8acaa1f425d9004fb37c2c7e18a697&dn$$lsname=[COLOR orange][B]ANIME[COLOR yellow] ->[COLOR white] Saga Majin Boo - DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5635167d1f45159e5668e6a76b38c774b238a0f&dn$$lsname=[COLOR orange][B]ANIME[COLOR yellow] ->[COLOR white] Saga dos Sayajins - DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cfc59ce47c7c0f0edbedc357dc2458b9056f7d83&dn$$lsname=[COLOR orange][B]ANIME[COLOR yellow] ->[COLOR white] Saga de Freeza - DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05f99038fd0f1fc7d81251425649642841961870&dn$$lsname=[COLOR orange][B]ANIME[COLOR yellow] ->[COLOR white] Saga de Garlic Jr. - DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e5f7f815ebe8a8a683744ecc47e1a32189c14a53&dn$$lsname=[COLOR orange][B]ANIME[COLOR yellow] ->[COLOR white] Saga dos Androides - DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c99759c4f0accb04e2b47aa0b6d2efa5f0da5b41&dn$$lsname=[COLOR orange][B]ANIME[COLOR yellow] ->[COLOR white] Saga de Cell - DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d3eb64b65edd8cc6d064f8aa327427f0b74439f&dn$$lsname=[COLOR orange][B]ANIME[COLOR yellow] ->[COLOR white] Saga Torneio de Outro Mundo - DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f971d0d48f8acaa1f425d9004fb37c2c7e18a697&dn$$lsname=[COLOR orange][B]ANIME[COLOR yellow] ->[COLOR white] Saga Majin Boo - DUB[/B][/COLOR]</link>
 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eg2CakFFQh3dvujVj2qYCe7ybvK.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/7sWJg75argLzaIt6nv3wQt070Yt.jpg</fanart>
@@ -31,20 +51,3 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR white][B] Dragon Ball Super - 2015 - DUB[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=dku9lH_Rr_c$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Dragon Ball Super [/B][/COLOR]</link>
-
-<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:0AF52C718B0B428807892CF40A715A6F54C2B45D&dn$$lsname=[COLOR orange][B]ANIME[COLOR yellow] ->[COLOR white] Dragon Ball Super - T01 - DUB[/B][/COLOR]</link>
-<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:5FC9FC66435C9326CD16D7228814A91A86E1BD40$$lsname=[COLOR orange][B]ANIME[COLOR yellow] ->[COLOR white] Dragon Ball Super - T02 - DUB[/B][/COLOR]</link>
-<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:E26437140A5934240005D5AD53276231E296CE3D$$lsname=[COLOR orange][B]ANIME[COLOR yellow] ->[COLOR white] Dragon Ball Super - T03 - DUB[/B][/COLOR]</link>
-<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:0F7EA6ECC6D3B3084E4B00000623CAAF5333F18A&dn=$$lsname=[COLOR orange][B]ANIME[COLOR yellow] ->[COLOR white] Dragon Ball Super - T04 - DUB[/B][/COLOR]</link>
-
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w7McGJsGqDjKu4sq5jl0OI1nrqY.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/zYmMzsm6ORrt1YgVK5p5gSSvIIZ.jpg</fanart>
-<info>Seis meses após a derrota de Majin Buu, Goku arranja um novo emprego como... Fazendeiro de nabos. Agora que a Terra está em paz, nossos heróis levam vidas mundanas, mas não por muito tempo. Longe dali, Bills, o poderoso Deus da Destruição, recebe uma profecia de que encontrará seu fim nas mãos de um ser ainda mais poderoso, e sua busca pelo Deus dos Saiyajins o traz para a Terra. Será que Goku e seus amigos conseguirão derrotar seu mais poderoso inimigo até então?</info>
-<genre>ANIMES</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
