@@ -1,4 +1,3 @@
-
 <item>
 <title>[COLOR orange][B]ESCOLHA UM ITEM [/B][/COLOR]</title>
 <link>NOLINK</link>
@@ -67,3 +66,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Naruto - 2002[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=j2hiC9BmJlQ$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Naruto[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0AF52C718B0B428807892CF40A715A6F54C2B45D&dn$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white][B]Naruto Clássico - DUB [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C37C191852FF55BBB33C09D22867434D4B907365&dn$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white][B]Naruto Shippuden - DUB [/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/k4UfpYvEeHFSu2TlluvLk984Oex.jpg</fanart>
+<info>Naruto é uma criança que vive em Konoha, a vila ninja do País do Fogo. Quando ainda bebê, Naruto teve um youkai, que na crença japonesa representa um monstro, aprisionado em seu corpo, o Bijuu chamado Kyuubi, pelo Quarto Hokage, para salvar a Aldeia da folha. Desde então, Naruto é visto por muitas pessoas como um monstro, não só pelos familiares das pessoas mortas pela Kyuubi, mas também por pessoas que sofrem com as besteiras feitas por ele, que é extremamente arteiro. Incompreendido, Naruto sonha em se tornar um ninja poderoso, e ser nomeado Hokage, para assim poder ser reconhecido por todos.</info>
+<genre>ANIMES</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
