@@ -1,5 +1,6 @@
+
 <item>
-<title>[COLOR orange][B]ESCOLHA UM ITEM [/B][/COLOR]</title>
+<title>[COLOR orange][B]ESCOLHA UM ITEM KRP[/B][/COLOR]</title>
 <link>NOLINK</link>
 <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
@@ -8,8 +9,9 @@
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+
 <item>
-<title>[COLOR white][B]Dragon Ball Heroes - 2018 - DUB[/B][/COLOR]</title>
+<title>[COLOR white][B]Dragon Ball Heroes - 2018[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=jFh4XUGA_bU$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Dragon Ball Heroes[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:U2UJ76KMYR33QQWAS3XR63C466C7P5LF&dn=%5BACESSE%20COMANDOTORRENTS.COM%5D%20Super%20Dragon%20Ball%20Heroes%20EP.%2001%20ao%2007%20%5B1080p%5D%20%5BWEB-DL%5D%20%5BDUAL%5D$$lsname=[COLOR orange][B]ANIME[COLOR yellow] -> [COLOR white][B]Dragon Ball Heroes - 2018 - DUB [/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:R4QLQIOR7UYGSDYAYIBTV4BDGYTY74G6&dn=%5BACESSE%20COMANDOTORRENTS.COM%5D%20Super%20Dragon%20Ball%20Heroes%20EP.%2001%20ao%2011%20%5B720p%5D%20%5BWEB-DL%5D%20%5BLEG%5D$$lsname=[COLOR orange][B]ANIME[COLOR yellow] -> [COLOR white][B]Dragon Ball Heroes - 2018 - LEG [/B][/COLOR]</link>
@@ -21,7 +23,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR white][B]Dragon Ball Super - 2015 - DUB[/B][/COLOR]</title>
+<title>[COLOR white][B]Dragon Ball Super - 2015[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=dku9lH_Rr_c$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Dragon Ball Super [/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0AF52C718B0B428807892CF40A715A6F54C2B45D&dn$$lsname=[COLOR orange][B]ANIME[COLOR yellow] ->[COLOR white] Dragon Ball Super - T01 - DUB[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5FC9FC66435C9326CD16D7228814A91A86E1BD40$$lsname=[COLOR orange][B]ANIME[COLOR yellow] ->[COLOR white] Dragon Ball Super - T02 - DUB[/B][/COLOR]</link>
@@ -35,7 +37,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR white][B]Dragon Ball Kai - 2009 - DUB[/B][/COLOR]</title>
+<title>[COLOR white][B]Dragon Ball Kai - 2009[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=zUr9SzNacWk$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Dragon Ball Kai[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:081FBC9A4D852329BE6C9A5411DCD1B96543EC03&dn=Dragon.Ball.Kai.Completo.Parte.1.2011.720p-WOLVERDONFILMES.COM&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.publicbt.com:80&tr=udp://tracker.istole.it:80/announce&tr=udp://tracker.ccc.de:80&tr=udp://open.demonii.com:1337$$lsname=[COLOR orange][B]ANIME[COLOR yellow] -> [COLOR white][B]Dragon Ball Kai - T01 - 2018 - DUB[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91DB8361AC12F018869ACB19B9F7833A4A3AC710&dn=Dragon.Ball.Kai.Completo.Parte.2.2011.720p-WOLVERDONFILMES.COM&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[COLOR orange][B]ANIME[COLOR yellow] -> [COLOR white][B]Dragon Ball Kai - T02 - 2018 - DUB[/B][/COLOR]</link>
@@ -48,7 +50,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR white][B]Dragon Ball Z - Todas as Sagas - 1989 - DUB[/B][/COLOR]</title>
+<title>[COLOR white][B]Dragon Ball Z - Todas as Sagas - 1989[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=_K91eeP25NA$$lsname=[COLOR white][B]TRAILER[COLOR yellow] -> [COLOR white][B]Dragon Ball Z [/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5635167d1f45159e5668e6a76b38c774b238a0f&dn$$lsname=[COLOR orange][B]ANIME[COLOR yellow] ->[COLOR white] Saga dos Sayajins - DUB[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cfc59ce47c7c0f0edbedc357dc2458b9056f7d83&dn$$lsname=[COLOR orange][B]ANIME[COLOR yellow] ->[COLOR white] Saga de Freeza - DUB[/B][/COLOR]</link>
@@ -67,17 +69,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR white][B]Boruto -  Naruto Next Generations - 2017 [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=Qyonn5Vbg7s$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Boruto -  Naruto Next Generations [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6TDPF5AJSN7TOUEHRFKAZE35HAZ2NOEZ&dn=Boruto%20Naruto%20Next%20Generations%201%C2%AA%20temporada%20Completa%20(Ep.%2001%20ao%20Ep.%2026)%20%5B720p%5D%20%5BLEG%5D%20COMANDOTORRENTS.COM$$lsname=[COLOR orange][B]T01[COLOR yellow] -> [COLOR white][B]Boruto -  Naruto Next Generations - DUB [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YZZZTALSS35RBLMC25ZSTFLNHNO6WDLB&dn=Boruto%20-%20Naruto%20Next%20Generations%20-%20Ep.%20S02E27-56%20%5B720p%5D%20%5BLEG%5D%20COMANDOTORRENTS.COM$$lsname=[COLOR orange][B]T02[COLOR yellow] -> [COLOR white][B]Boruto -  Naruto Next Generations - DUB [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JALVWWE3XOIJKZSLCARRZPYZRVIR5ZXP&dn=%5BBAIXE%20NO%20COMANDOTORRENTS.COM%5D%20Boruto%20-%20Naruto%20Next%20Generations%203%C2%AA%20Temporada%20Completa%202018%20%5BHDTV%5D%20%5B720p%5D%20%5BLEG%5D$$lsname=[COLOR orange][B]T03[COLOR yellow] -> [COLOR white][B]Boruto -  Naruto Next Generations - Eps. ate 75 - DUB [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=<LINKTORRENT1080>$$lsname=[COLOR orange][B]T04[COLOR yellow] -> [COLOR white][B]Boruto -  Naruto Next Generations - DUB [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5HEIA3QROZZFEFSEQBDYLDFEGVZXSQFQ&dn=%5BErai-raws%5D%20Boruto%20-%20Naruto%20Next%20Generations%20-%2076%20%5B720p%5D%5BMultiple%20Subtitle%5D.mkv&xl=387600506$$lsname=[COLOR orange][B]T03E76[COLOR yellow] ->[COLOR white]Boruto -  Naruto Next Generations - DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42PDLR3HSM4VWKXISQCCKPRZWX6RTOKW&dn=%5BErai-raws%5D%20Boruto%20-%20Naruto%20Next%20Generations%20-%2077%20%5B720p%5D%5BMultiple%20Subtitle%5D.mkv&xl=435429659$$lsname=[COLOR orange][B]T03E77[COLOR yellow] ->[COLOR white]Boruto -  Naruto Next Generations - DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QCFWGCGIY234Z5UZNY7VMJ2AZU7ONBCV&dn=%5BErai-raws%5D%20Boruto%20-%20Naruto%20Next%20Generations%20-%2078%20%5B720p%5D%5BMultiple%20Subtitle%5D.mkv&xl=410792723$$lsname=[COLOR orange][B]T03E78[COLOR yellow] ->[COLOR white]Boruto -  Naruto Next Generations - DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JQSVKUFOPACYLN5EDXGVFP2HIXUYOLFF&dn=%5BErai-raws%5D%20Boruto%20-%20Naruto%20Next%20Generations%20-%2079%20%5B720p%5D%5BMultiple%20Subtitle%5D.mkv&xl=414260007$$lsname=[COLOR orange][B]T03E79[COLOR yellow] ->[COLOR white]Boruto -  Naruto Next Generations - DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DREDQWLAO63Z4LULD4EEUYV7QSJXSS4S&dn=%5BErai-raws%5D%20Boruto%20-%20Naruto%20Next%20Generations%20-%2080%20%5B720p%5D%5BMultiple%20Subtitle%5D.mkv&xl=379293285$$lsname=[COLOR orange][B]T03E80[COLOR yellow] ->[COLOR white]Boruto -  Naruto Next Generations - DUB[/B][/COLOR]</link>
+<title>[COLOR white][B]Boruto: Naruto Next Generations - 2017 [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Qyonn5Vbg7s$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Boruto: Naruto Next Generations [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6TDPF5AJSN7TOUEHRFKAZE35HAZ2NOEZ&dn=Boruto%20Naruto%20Next%20Generations%201%C2%AA%20temporada%20Completa%20(Ep.%2001%20ao%20Ep.%2026)%20%5B720p%5D%20%5BLEG%5D%20COMANDOTORRENTS.COM$$lsname=[COLOR orange][B]T01[COLOR yellow] -> [COLOR white][B]Boruto: Naruto Next Generations - DUB [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YZZZTALSS35RBLMC25ZSTFLNHNO6WDLB&dn=Boruto%20-%20Naruto%20Next%20Generations%20-%20Ep.%20S02E27-56%20%5B720p%5D%20%5BLEG%5D%20COMANDOTORRENTS.COM$$lsname=[COLOR orange][B]T02[COLOR yellow] -> [COLOR white][B]Boruto: Naruto Next Generations - DUB [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JALVWWE3XOIJKZSLCARRZPYZRVIR5ZXP&dn=%5BBAIXE%20NO%20COMANDOTORRENTS.COM%5D%20Boruto%20-%20Naruto%20Next%20Generations%203%C2%AA%20Temporada%20Completa%202018%20%5BHDTV%5D%20%5B720p%5D%20%5BLEG%5D$$lsname=[COLOR orange][B]T03[COLOR yellow] -> [COLOR white][B]Boruto: Naruto Next Generations - Eps. até 75 - DUB [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5HEIA3QROZZFEFSEQBDYLDFEGVZXSQFQ&dn=%5BErai-raws%5D%20Boruto%20-%20Naruto%20Next%20Generations%20-%2076%20%5B720p%5D%5BMultiple%20Subtitle%5D.mkv&xl=387600506$$lsname=[COLOR orange][B]T03E76[COLOR yellow] ->[COLOR white]Boruto: Naruto Next Generations - DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42PDLR3HSM4VWKXISQCCKPRZWX6RTOKW&dn=%5BErai-raws%5D%20Boruto%20-%20Naruto%20Next%20Generations%20-%2077%20%5B720p%5D%5BMultiple%20Subtitle%5D.mkv&xl=435429659$$lsname=[COLOR orange][B]T03E77[COLOR yellow] ->[COLOR white]Boruto: Naruto Next Generations - DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QCFWGCGIY234Z5UZNY7VMJ2AZU7ONBCV&dn=%5BErai-raws%5D%20Boruto%20-%20Naruto%20Next%20Generations%20-%2078%20%5B720p%5D%5BMultiple%20Subtitle%5D.mkv&xl=410792723$$lsname=[COLOR orange][B]T03E78[COLOR yellow] ->[COLOR white]Boruto: Naruto Next Generations - DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JQSVKUFOPACYLN5EDXGVFP2HIXUYOLFF&dn=%5BErai-raws%5D%20Boruto%20-%20Naruto%20Next%20Generations%20-%2079%20%5B720p%5D%5BMultiple%20Subtitle%5D.mkv&xl=414260007$$lsname=[COLOR orange][B]T03E79[COLOR yellow] ->[COLOR white]Boruto: Naruto Next Generations - DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DREDQWLAO63Z4LULD4EEUYV7QSJXSS4S&dn=%5BErai-raws%5D%20Boruto%20-%20Naruto%20Next%20Generations%20-%2080%20%5B720p%5D%5BMultiple%20Subtitle%5D.mkv&xl=379293285$$lsname=[COLOR orange][B]T03E80[COLOR yellow] ->[COLOR white]Boruto: Naruto Next Generations - DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nEFjTWlKvaNZDEzNZ3NlkPFkezj.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/4O5xDFV1QucFo2IqMNB0c61liil.jpg</fanart>
 <info>Boruto Uzumaki, filho de Naruto Uzumaki, o Sétimo Hokage, se inscreveu na Academia Ninja para aprender a ser um verdadeiro ninja. Os outros estudantes o ignoram por ser "apenas o filho do Hokage", mas a paixão e a personalidade do Boruto vai acabar com todos esses preconceitos. Quando uma série de misteriosos eventos começa a se desenrolar, cabe a Boruto e seus novos amigos a investigá-los. Como um tornado, Boruto entra no coração de todos: sua história está prestes a começar!</info>
@@ -88,7 +89,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR white][B]Naruto - 2002[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=j2hiC9BmJlQ$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Naruto[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0AF52C718B0B428807892CF40A715A6F54C2B45D&dn$$lsname=[COLOR orange][B]ANIME[COLOR yellow] -> [COLOR white][B]Naruto Classico - DUB [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0AF52C718B0B428807892CF40A715A6F54C2B45D&dn$$lsname=[COLOR orange][B]ANIME[COLOR yellow] -> [COLOR white][B]Naruto Clássico - DUB [/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C37C191852FF55BBB33C09D22867434D4B907365&dn$$lsname=[COLOR orange][B]ANIME[COLOR yellow] -> [COLOR white][B]Naruto Shippuden - DUB [/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/k4UfpYvEeHFSu2TlluvLk984Oex.jpg</fanart>
@@ -118,4 +119,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>ANIMES</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+
 
