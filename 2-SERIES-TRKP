@@ -206,8 +206,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
-
 <item>
 <title>[COLOR white][B]The Terror - T01 - 2018 [/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=rnN7Aad3c7A$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]The Terror[/B][/COLOR]</link>
@@ -233,6 +231,20 @@ link>plugin://plugin.video.elementum/play?uri=<LINKTORRENT720>$$lsname=[COLOR or
 <fanart>https://www.themoviedb.org/t/p/original/st0ztdPoplPdmcTHZJzWgY1X93x.jpg</fanart>
 <info>Um bandido implacável aterroriza o oeste à procura de um desertor de seu bando que encontrou uma nova vida em uma cidadezinha habitada apenas por mulheres.</info>
 <genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]The Tudors - 2007 [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=qTiL8pgNqhs&t=25s$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]The Tudors[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:534F300CCF7883534224367DB9297C9D5B9C49CE&dn=The.Tudors.1.Temp.Dual.WWW.TORRENTDOSFILMES.COM$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white][B]The Tudors - DUB [/B][/COLOR]</link>
+
+link>plugin://plugin.video.elementum/play?uri=<LINKTORRENT1080>$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white][B]NOMEDASERIE - DUB [/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oiRSRTJX5aFrYue4psaDMggdsNK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/whGgNsO8fdPWhd5ff3STj8SiAiG.jpg</fanart>
+<info>Henrique VIII faz alianças importantes e desafia instituições para satisfazer seus interesses. Paixão, ambição e traição conduzem a vida do monarca na Inglaterra do século XVIII.</info>
+<genre>GENERO</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
