@@ -71,7 +71,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
 <item>
 <title>[COLOR white][B]Cidade Invisível - TO1 - 2021[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=GodwQKNXIYk$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Cidade Invisivel[/B][/COLOR]</link>
@@ -244,6 +243,21 @@ link>plugin://plugin.video.elementum/play?uri=<LINKTORRENT720>$$lsname=[COLOR or
 <fanart>https://www.themoviedb.org/t/p/original/st0ztdPoplPdmcTHZJzWgY1X93x.jpg</fanart>
 <info>Um bandido implacável aterroriza o oeste à procura de um desertor de seu bando que encontrou uma nova vida em uma cidadezinha habitada apenas por mulheres.</info>
 <genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Taken - 2017 [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Taken[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30eb06b72c47e0c9807b3c40bd7b865d029f3425$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white]Taken - DUB [/B][/COLOR]</link>
+
+link>plugin://plugin.video.elementum/play?uri=<LINKTORRENT1080>$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white]Taken - LEG [/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5TgdridU2w1pVsbQB2pt1xvazBX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/f3kPFcnHNFFIb0fVZpbiJHX5GYb.jpg</fanart>
+<info>O ex-membro das Forças Especiais americanas Bryan Mills (Clive Standen) sofre uma perda pessoal que o leva a procurar uma carreira como agente secreto para buscar vingança enquanto lida com sua dor e acaba adquirindo um conjunto de habilidades muito especiais no processo.</info>
+<genre>CRIME E DRAMA</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
