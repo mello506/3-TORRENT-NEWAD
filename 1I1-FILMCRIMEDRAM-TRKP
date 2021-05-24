@@ -33,6 +33,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
+<title>[COLOR white][B]Taken - 2017 [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Taken[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30eb06b72c47e0c9807b3c40bd7b865d029f3425$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white]Taken - DUB [/B][/COLOR]</link>
+
+link>plugin://plugin.video.elementum/play?uri=<LINKTORRENT1080>$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white]Taken - LEG [/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5TgdridU2w1pVsbQB2pt1xvazBX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/f3kPFcnHNFFIb0fVZpbiJHX5GYb.jpg</fanart>
+<info>O ex-membro das Forças Especiais americanas Bryan Mills (Clive Standen) sofre uma perda pessoal que o leva a procurar uma carreira como agente secreto para buscar vingança enquanto lida com sua dor e acaba adquirindo um conjunto de habilidades muito especiais no processo.</info>
+<genre>CRIME E DRAMA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
 <title>[COLOR white][B]Filme Sob Pressão - O Filme - 2016 [/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=IF2mDeccjGE$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Filme Sob Pressao - O Filme[/B][/COLOR]</link>
 
@@ -46,6 +61,20 @@ link>plugin://plugin.video.elementum/play?uri=<LINKTORRENT720>$$lsname=[COLOR or
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<item>
+<title>[COLOR white][B]Carga Explosiva - A Série - 2013 [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=MFY6t2KRtq0$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Carga Explosiva - A Serie[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A45621B75564BBCB571DB9F02424B085DBD9535B&dn=%5bWWW.BLUDV.TV%5d%20Carga%20Explosiva%20-%20A%20Serie%20-%201%c2%aa%20Temporada%20Completa%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white]Carga Explosiva - A Serie - DUB [/B][/COLOR]</link>
+
+link>plugin://plugin.video.elementum/play?uri=<LINKTORRENT1080>$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white]Carga Explosiva - A Serie - DUB [/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4pTEa1edd4n92245GUumftr2Lbj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cF7uwwwbrqrOmh49N5E2EhpOd0T.jpg</fanart>
+<info>The Series é estrelada por Chris Vance (Prison Break, Mental). Ele assume o papel que foi de Jason Statham no cinema. No elenco também está a atriz húngara Andrea Osvart, que interpretará Carla, uma ex-agente da CIA. Na história, Frank, um ex-soldado, opera uma empresa de transportes, realizando diversos negócios legais e ilegais.</info>
+<genre>CRIME E DRAMA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR white][B]Zulu - 2013 [/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Zulu[/B][/COLOR]</link>
