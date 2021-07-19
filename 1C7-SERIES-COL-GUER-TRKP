@@ -15,7 +15,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B] Band of Brothers[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zReOJYste13Qq3T3B5OyXPWjv1O.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/bhxhLB74EIvw0ZYyzT1DU0T6Pr7.jpg</fanart>
-<info>A trajetória dos integrantes da Easy Company, grupo de elite da infantaria de paraquedistas dos Estados Unidos, desde o treinamento até os combates na histórica invasão da Europa, na Segunda Guerra Mundial.
+<info>
 [COLOR orange]GUERRA[/COLOR]
 [COLOR orange]ANO - 2001[/COLOR]
 [COLOR orange]1 TEMP - 10 EPS[/COLOR]
@@ -45,10 +45,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR orange]Band of Brothers[/B][/COLOR]</title>
 <link>NOLINK</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zReOJYste13Qq3T3B5OyXPWjv1O.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/bhxhLB74EIvw0ZYyzT1DU0T6Pr7.jpg</fanart>
-<info>Escolha o servidor para assistir a série Band of Brothers</info>
-<genre>GUERRA</genre>  
+<thumbnail>https://i.ibb.co/bQH862q/torrent-5.png</thumbnail>
+<fanart><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart></fanart>
+<info>ASSISTA EM TORRENT</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -78,7 +77,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B] The Pacific[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7bsZXJ90sesqdL4qDzkMvUSMWln.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/9YynpUBWtqr1xUqRukHRD5pt3Fa.jpg</fanart>
-<info>A série acompanha a jornada de três membros do Corpo de Fuzileiros Navais dos Estados Unidos, desde a primeira batalha contra o Japão, em Guadalcanal, até seu retorno após o grande triunfo que deu fim à Segunda Guerra Mundial.
+<info>
 [COLOR orange]GUERRA[/COLOR]
 [COLOR orange]ANO - 2010[/COLOR]
 [COLOR orange]1 TEMP - 10 EPS[/COLOR]
@@ -98,10 +97,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR orange]The Pacific[/B][/COLOR]</title>
 <link>NOLINK</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7bsZXJ90sesqdL4qDzkMvUSMWln.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/9YynpUBWtqr1xUqRukHRD5pt3Fa.jpg</fanart>
-<info>Escolha o servidor para assistir a série The Pacific</info>
-<genre>GUERRA</genre>  
+<thumbnail>https://i.ibb.co/bQH862q/torrent-5.png</thumbnail>
+<fanart><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart></fanart>
+<info>ASSISTA EM TORRENT</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -158,12 +156,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR orange][B]TORRENT[COLOR yellow] ->[COLOR orange]The Liberator[/B][/COLOR]</title>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR orange]The Liberator[/B][/COLOR]</title>
 <link>NOLINK</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kivHJpsGFWgqnDMRDnnpOSgLD1s.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/8oV3KQvrYvGQjfZXXzCOkNCtSw6.jpg</fanart>
-<info>Escolha o servidor para assistir a série The Liberator</info>
-<genre>GUERRA</genre>  
+<thumbnail>https://i.ibb.co/bQH862q/torrent-5.png</thumbnail>
+<fanart><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart></fanart>
+<info>ASSISTA EM TORRENT</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -218,6 +215,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
+<title>[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR orange]O Naufrágio do Lacônia[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/5hdsDQB/Gdrive-4.png</thumbnail>
+<fanart><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart></fanart>
+<info>ASSISTA NO G DRIVE</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
 <title>[COLOR orange][B]G DRIVE[COLOR yellow] ->[COLOR white]O Naufrágio do Lacônia - 2010 - Leg-Fix - Parte 1[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BJQ_EvQbIqlSwAxPfmwE2bYjm16p6Qvm/view</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/8185A1Um23L._AC_SL1200_.jpg</thumbnail>
@@ -268,6 +274,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR orange]World on Fire[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/bQH862q/torrent-5.png</thumbnail>
+<fanart><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart></fanart>
+<info>ASSISTA EM TORRENT</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
 <title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white] World on Fire - T01 - 2021 [/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4cb3fc68fc696194928fdcb53c651b1f06e72842&dn=COMOEUBAIXO.COM.TEMPORADA.WEB-DL.MKV.COMANDO.TO%20-%20World%20On%20Fire%201%c2%aa%20Temporada%20Completa%20720p%20DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2780%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yhzBXDsiZjQv0EaIAy2Z6csEjyU.jpg</thumbnail>
@@ -276,6 +291,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>GUERRA</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR orange]World on Fire[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/5hdsDQB/Gdrive-4.png</thumbnail>
+<fanart><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart></fanart>
+<info>ASSISTA NO G DRIVE</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]World on Fire - T01 - 2019 - DUB[/B][/COLOR]</title>
@@ -326,6 +350,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
+<title>[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR orange]The Heavy Water War[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/5hdsDQB/Gdrive-4.png</thumbnail>
+<fanart><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart></fanart>
+<info>ASSISTA NO G DRIVE</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
 <title>[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]The Heavy Water War - 2015 - DUB[/B][/COLOR]</title>
 
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Up7_T1CuejrqYgMX62nEmOkjcTRybjyb/view$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]The Heavy Water War[/B][/COLOR]</link>
@@ -374,6 +407,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
+<title>[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR orange]Quando os Sinos Dobram[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/5hdsDQB/Gdrive-4.png</thumbnail>
+<fanart><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart></fanart>
+<info>ASSISTA NO G DRIVE</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
 <title>[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Quando os Sinos Dobram - 2014 - DUB[/B][/COLOR]</title>
 
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1t-NDZLA5lDEm7dzQZjDJDkDGryXlczzP/view$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Quando os Sinos Dobram[/B][/COLOR]</link>
@@ -419,6 +461,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>GUERRA</genre>  
 </item> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR orange]O Exército Esquecido[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/bQH862q/torrent-5.png</thumbnail>
+<fanart><fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart></fanart>
+<info>ASSISTA EM TORRENT</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]TORRENT - HD[COLOR yellow] -> [COLOR white]O Exército Esquecido - 2020 - DUB[/B][/COLOR]</title>
