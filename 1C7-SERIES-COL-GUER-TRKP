@@ -232,13 +232,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]World on Fire - T01 - 2019 - DUB[/B][/COLOR]</title>
 
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ooqmk4jo2wGPJbnpyZccRKUTEou-4619/view$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Episodio 01[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15Yx6hPztZfBChUTTuN_aMaRbVsqOGnMD/view$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Episodio 02[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1I3FXqUSQiWcGypmK97d3euZmSAoETBvc/view$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Episodio 03[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1u1_4J4jkHTdEYIA_cXsi-EQhFn6Xc1GP/view$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Episodio 04[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PsWaqURJmAsZ9xnV7QOiDQ5IJwaZ6-Lc/view$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Episodio 05[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KDdzBsUHojDelfIDOHLwk0uBNNOy7-IB/view$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Episodio 06[/B][/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JDA162JwHAw4TxFlCwMaUGQSDOIEH9tW/view$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Episodio 07[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ooqmk4jo2wGPJbnpyZccRKUTEou-4619/view$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Episodio 01[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15Yx6hPztZfBChUTTuN_aMaRbVsqOGnMD/view$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Episodio 02[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1I3FXqUSQiWcGypmK97d3euZmSAoETBvc/view$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Episodio 03[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1u1_4J4jkHTdEYIA_cXsi-EQhFn6Xc1GP/view$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Episodio 04[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PsWaqURJmAsZ9xnV7QOiDQ5IJwaZ6-Lc/view$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Episodio 05[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KDdzBsUHojDelfIDOHLwk0uBNNOy7-IB/view$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Episodio 06[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JDA162JwHAw4TxFlCwMaUGQSDOIEH9tW/view$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Episodio 07[/B][/COLOR]</link>
 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yhzBXDsiZjQv0EaIAy2Z6csEjyU.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ib9aSHFlcjlNUv1rakdKyUg4Wzy.jpg</fanart>
