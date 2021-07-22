@@ -10,15 +10,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]Luca - 2021[/B][/COLOR]</title>
-
 <link>plugin://plugin.video.youtube/play/?video_id=YdAIBlPVe9s$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Luca [/B][/COLOR]</link>
 
 link>plugin://plugin.video.elementum/play?uri=<LINKTORRENT720>$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white]Luca - DUB [/B][/COLOR]</link>
 
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e88d7e02bf184aab8760055ee01b2c64166ac5f7&dn=Luca.2021.1080p.WEB-DL.DUAL.5.1.COMANDO.TO&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.internetwarriors.net%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fwww.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=http%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f3rt.tace.ru%3a60889%2fannounce$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white]Luca - DUB [/B][/COLOR]</link>
-
 <link>http://b5.vc:80/movie/Pierri/102030/111459.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Luca - DUB [/B][/COLOR]</link>
-
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1lk7QISmTam2iOzzUAQYs6voeFg.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/qtVYMi4gkTB7xNNsMyG2z3UHGMU.jpg</fanart>
 <info>Ambientado na bela Riviera Italiana, este longa-metragem da Disney e da Pixar acompanha as aventuras do garoto Luca durante um verão inesquecível repleto de macarronadas, gelatos e passeios incríveis de motoneta ao lado de seu novo amigo Alberto. Mas um grande segredo ameaça colocar fim à diversão: abaixo da superfície da água, eles são monstros marinhos!</info>
@@ -37,6 +34,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>ANIMAÇÃO</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR white] Mulher-Maravilha - Linhagem de Sangue (2019)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=PPcd_cAwLl0$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Mulher-Maravilha - Linhagem de Sangue[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B73020C7F36C51AB83054D79518CF265AEE03868$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white]Mulher-Maravilha - Linhagem de Sangue - DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ulPe6Zqkr4ZODmOFJ67ef9MWh9A.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6XX4Sp9bF0SulXnMnYqQ9lcjLbp.jpg</fanart>
+<info>Veja a origem lendária de um dos renomados membros da Liga da Justiça, Mulher Maravilha, conforme ela enfrenta o mal com sua espada e seu laço mágico. Determinada e igualmente forte no corpo e no coração, ela assume a missão de ajudar uma jovem garota problemática que foi recrutada por uma organização mortal conhecida como Corporação Vilania, cujos membros criminosos almejam invadir Themyscira, o lar paradisíaco de nossa heroína. A batalha será épica, porque se há uma coisa que as Amazonas conhecem bem, é a guerra!</info>
+<genre>ANMAÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white][B]Zootopia: Essa Cidade é o Bicho - 2016 [/B][/COLOR]</title>
